@@ -5,7 +5,9 @@ Welcome to my Xylophone app project for iOS, inspired by my journey in iOS app d
 Key Features:
 
 -Create a Xylophone with colorful keys.
+
 -Tap the keys to play musical notes.
+
 -Leverage iOS development fundamentals learned from courses.
 
 This project reflects the insights and skills I've acquired through my courses and serves as a practical showcase of my iOS development progress.
